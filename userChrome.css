@@ -11,16 +11,16 @@
 /* Hide the tab bar when only one tab is open (GNOMISH)
  * You should move the new tab button somewhere else for this to work, because by
  * default it is on the tab bar too. */
-/*@import "theme/hide-single-tab.css"; /**/
+@import "theme/hide-single-tab.css";
 
 /* Limit the URL bar's autocompletion popup's width to the URL bar's width (GNOMISH) */
-/*@import "theme/matching-autocomplete-width.css"; /**/
+@import "theme/matching-autocomplete-width.css";
 
 /* Active tab high contrast */
 /*@import "theme/active-tab-contrast.css"; /**/
 
 /* Use system theme icons instead of Adwaita icons included by theme */
-/*@import "theme/system-icons.css"; /**/
+/*@import "theme/system-icons.css";/**/
 
 /* Allow drag window from headerbar buttons (GNOMISH) [BUGGED] 
  * It can activate button action, with unpleasant behavior. */
