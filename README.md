@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="icon.svg" alt="Firefox GNOME theme" width="100" height="100"/><br>
- Firefox GNOME theme
+ Firefox GNOME theme, with minor modifications to match the Adementary GTK/shell theme more closely
 </h1>
 
 [![GitHub](https://img.shields.io/github/license/rafaelmardojai/firefox-gnome-theme.svg)](https://github.com/rafaelmardojai/firefox-gnome-theme/blob/master/LICENSE)
